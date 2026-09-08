@@ -244,3 +244,6 @@ This repository serves as the official landing page for Flame of Valhalla. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Flame of Valhalla today!**
+
+---
+**Last updated:** 2026-09-08 17:07:12 UTC
